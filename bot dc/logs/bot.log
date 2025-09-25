@@ -1,0 +1,21 @@
+2025-09-25 08:17:37,119:WARNING:PyNaCl is not installed, voice will NOT be supported
+2025-09-25 08:17:37,121:INFO:logging in using static token
+2025-09-25 08:17:38,794:INFO:Shard ID None has connected to Gateway (Session ID: 4e1439bcff8ec8e96ce887b4d32628e6).
+2025-09-25 08:17:40,799:INFO:Bot connected as Bot GG#5343
+2025-09-25 08:18:07,615:ERROR:Error: Command "ibu" is not found
+2025-09-25 08:18:51,216:ERROR:Error: Command "ask_ai" is not found
+2025-09-25 08:19:10,804:INFO:Question from nekobro.: ibu kota japan
+2025-09-25 08:19:11,840:ERROR:Error: Command raised an exception: AttributeError: module 'google.generativeai.types' has no attribute 'RateLimitError'
+2025-09-25 08:20:09,750:INFO:Question from nekobro.: ibu kota japan
+2025-09-25 08:20:10,467:ERROR:Error: Command raised an exception: AttributeError: module 'google.generativeai.types' has no attribute 'RateLimitError'
+2025-09-25 08:28:42,421:WARNING:PyNaCl is not installed, voice will NOT be supported
+2025-09-25 08:28:42,422:INFO:logging in using static token
+2025-09-25 08:28:44,034:INFO:Shard ID None has connected to Gateway (Session ID: 03e26bfc108d8b392b0e797d7ce04f2e).
+2025-09-25 08:28:46,040:INFO:Bot connected as Bot GG#5343
+2025-09-25 08:28:58,332:INFO:Question from nekobro.: ibu kota japan
+2025-09-25 08:30:25,986:INFO:Question from nekobro.: coba buatkan scrpit hello world
+2025-09-25 08:30:29,284:ERROR:Error: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+2025-09-25 08:30:50,639:INFO:Question from nekobro.: ketik hello world
+2025-09-25 08:31:43,914:INFO:Question from nekobro.: siapakah kamu
+2025-09-25 08:32:02,794:INFO:Question from nekobro.: maksimal toke yang saya dapat lakukan
